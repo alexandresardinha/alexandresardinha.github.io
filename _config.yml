@@ -83,21 +83,21 @@ author:
   bio              : "Software engineer at Petrobras"
   location         : "Rio de Janeiro"
   employer         : "Petrobras"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "alexandre.sardinha@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/alexandre.sardinha"
+  facebook         : "alexandre.sardinha"
   foursquare       :
-  github           : "https://github.com/alexandresardinha"
+  github           : "alexandresardinha"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/alexandre-sardinha-7a8054105/"
+  linkedin         : "alexandre-sardinha-7a8054105"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -110,7 +110,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  goodreads        : "https://www.goodreads.com/user/show/54269871-alexandre-sardinha"
+  goodreads        : "54269871-alexandre-sardinha"
 
 
 # Reading Files
