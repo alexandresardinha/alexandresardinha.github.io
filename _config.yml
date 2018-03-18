@@ -78,38 +78,39 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  name             : "Alexandre Sardinha"
+  avatar           : "bio-photo.jpg"
+  bio              : "Software engineer at Petrobras"
+  location         : "Rio de Janeiro"
+  employer         : "Petrobras"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "alexandre.sardinha@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/alexandre.sardinha"
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/alexandresardinha"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/alexandre-sardinha-7a8054105/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  goodreads        : "https://www.goodreads.com/user/show/54269871-alexandre-sardinha"
 
 
 # Reading Files
