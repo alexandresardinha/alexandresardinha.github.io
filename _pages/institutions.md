@@ -6,8 +6,7 @@ redirect_from:
   - /institutions
 ---
 
-# Institutions
-[Departamento Ciência da Computação - UFRJ](http://www.dcc.ufrj.br/)
+[Departamento Ciência da Computação - UFRJ]: files/(http://www.dcc.ufrj.br/)
 [Programa de Engenharia de Sistemas e Computação]()
 [Petrobras]
 [Sindipetro-RJ]
