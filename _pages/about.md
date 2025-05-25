@@ -13,4 +13,4 @@ I specialize in developing and optimizing geophysics applications, particularly 
 
 I've received my M.Sc. from [Systems Engineering and Computer Science Program](http://www.cos.ufrj.br) at Federal University of Rio de Janeiro (UFRJ) and my B.Sc. from [Computer Science Department](http://www.dcc.ufrj.br) also at UFRJ.
 
-In my personal life, I like to play futsal, practice canicross, watch alternative movies, play the drums and travel.
+In my personal life, I like to play [futsal](https://en.wikipedia.org/wiki/Futsal), practice [canicross](https://en.wikipedia.org/wiki/Canicross), watch alternative movies, play the drums and travel.
